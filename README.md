@@ -1,2 +1,2 @@
 # Traivs-CI
-Test repository to test Travis CI.
+Basic Travis build test for python. 
